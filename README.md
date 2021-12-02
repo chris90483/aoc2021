@@ -4,4 +4,4 @@
 
 ### 100.0% Haskell
 
-[](https://raw.githubusercontent.com/chris90483/aoc2021/main/mona_l2.png)
+![](https://raw.githubusercontent.com/chris90483/aoc2021/main/mona_l2.png)
