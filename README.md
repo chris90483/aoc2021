@@ -14,4 +14,4 @@
 | Day 3  | Introdicing Haskell As English(tm) (see problem 2)                                         |
 | Day 4  |                                                                                            |
 | Day 5  |                                                                                            |
-| Day 3  | Did you know: emojis are valid operators in Haskell (see problem 2)                        |
+| Day 6  | Did you know: emojis are valid operators in Haskell (see problem 2)                        |
