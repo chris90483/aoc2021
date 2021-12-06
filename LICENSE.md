@@ -5,7 +5,7 @@ For all other files the following license applies:
 # DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (Edited by chris90483)
 ## Version 420, December 2021
 
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ Copyright (C) 2021 Me <myemailis@priva.te>
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
