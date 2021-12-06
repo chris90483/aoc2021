@@ -1,8 +1,9 @@
 `lib/split` and `lib/Useful` are licensed under their own licenses.
-For all other files: the following license applies:
 
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
+For all other files the following license applies:
+
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+## Version 2, December 2004
 
  Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
