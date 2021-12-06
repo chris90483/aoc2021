@@ -12,3 +12,6 @@
 | Day 1  | Made the Infinitable data type, extinding Nums with Infinity for overengineering purposes. |
 | Day 2  | One-liners only today!                                                                     |
 | Day 3  | Introdicing Haskell As English(tm) (see problem 2)                                         |
+| Day 4  |                                                                                            |
+| Day 5  |                                                                                            |
+| Day 3  | Did you know: emoji's are valid operators in Haskell (see problem 2)                       |
