@@ -2,8 +2,8 @@
 
 For all other files the following license applies:
 
-# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-## Version 2, December 2004
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (Edited by chris90483)
+## Version 420, December 2021
 
  Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
@@ -12,6 +12,6 @@ For all other files the following license applies:
  as the name is changed.
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+            TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
