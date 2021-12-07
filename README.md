@@ -15,3 +15,5 @@
 | Day 4  |                                                                                            |
 | Day 5  |                                                                                            |
 | Day 6  | Did you know: emojis are valid operators in Haskell (see problem 2)                        |
+
+![](https://raw.githubusercontent.com/chris90483/aoc2021/main/art2.png)
