@@ -1,9 +1,13 @@
 -- | A lightweight Dictionary implementation based on Data.Map, part of the "Useful" module.
 --
--- I like dictionaries, and use them often for small things when I'm coding, but the functions and syntax by default are hardly as elegant as something like python. This is one thing I feel is missing in the default implementation of data types. Also, the clashing namespace when importing Data.Map makes code often hard to read and long. Completely inconvenient for small, simple tasks.
+-- I like dictionaries, and use them often for small things when I'm coding, but the functions and 
+-- syntax by default are hardly as elegant as something like python. This is one thing I feel is missing 
+-- in the default implementation of data types. Also, the clashing namespace when importing Data.Map makes 
+-- code often hard to read and long. Completely inconvenient for small, simple tasks.
 -- This isn't a complete solution and nor is it optimal but it's lightweight and pretty.
 -- Keys must have some ordering defined over them.
--- In the function descriptions, listed in square brackets are the Data.Map functions used - this does not mean it is an exact alias though, it make just use it.
+-- In the function descriptions, listed in square brackets are the Data.Map functions used - this does 
+-- not mean it is an exact alias though, it make just use it.
 module Useful.Dictionary where
 
 import qualified Data.Map
@@ -31,8 +35,8 @@ dictSize d = Data.Map.size d
 -- * Dictionary operations
 
 -- | Returns Maybe v from key k [Data.Map.lookup]
-(#!) :: (Ord k) => k -> Data.Map.Map k a -> Maybe a
-(#!) d k = Data.Map.lookup d k
+(#!) :: (Ord k) => Data.Map.Map k a -> k -> Maybe a
+d #! k = flip Data.Map.lookup d k
 
 -- | Returns v from key k or error [Data.Map.!]
 (#!!) :: (Ord k) => Data.Map.Map k a -> k -> a
